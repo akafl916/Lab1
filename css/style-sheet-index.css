@@ -3,22 +3,22 @@ html {
 }
 body {
     border: 5px solid black;
-    padding: 10px 0;
+    padding: 0 5vw 0 5vw;
 
     background-color: #ffc6dc;
     width: 600px;
-    margin: 0 auto;
+    margin: 3vh auto 3vh auto ;
 }
 h1 {
-    margin: 0;
-    padding: 10px 0;
+    margin:20px;
+    padding: 1vh 0 1vh 0;
     font-size: 60px;
     text-align: center;
     color: #ff0022
 }
+
 h2 {
     color: crimson;
-    padding: 5px 0;
 }
 
 p {
@@ -34,6 +34,7 @@ li {
 .bold {
     font-weight: bold;
 }
+
 .italics {
     font-style: italic;
 }
