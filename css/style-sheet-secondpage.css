@@ -3,8 +3,6 @@ html {
 }
 
 body {
-    margin: 4vh 6vw 4vh 6vw;
-    padding: 2vw;
     background-color:rgb(197, 93, 93);
     border: solid rgb(255, 137, 111) 10px;
 }
@@ -34,14 +32,6 @@ h2 {
 
 h3 {
     font-size: 3vw;
-}
-
-ol, ul {
-    font-size: 2vw;
-}
-
-p {
-    font-size: 2vw;
 }
 
 div {

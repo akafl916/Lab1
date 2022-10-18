@@ -1,0 +1,13 @@
+body {
+    font-family: 'Nanum-Gothic', sans-serif;
+    margin: 4vh 6vw 4vh 6vw;
+    padding: 2vw;
+}
+
+p {
+    font-size: 16px;
+}
+
+li{
+    font-size: 19px;
+}
